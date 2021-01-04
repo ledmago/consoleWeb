@@ -1,0 +1,19 @@
+<span id="a">firatdogan@localhost</span>:<span id="b">~</span><span id="c">$</span> cat homepage.txt<br/><br/>
+Hello i am Fırat Doğan.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
+
+Experienced Cisco Certified Network Associate with extensive background in network routing and switching. Expert in the installation and configuration of local and wide area networks. Able to build, maintain, and monitor secured network systems. Experienced in ensuring efficient network operation at all times to prevent user and website outages. Able to assist in the initial analysis, design, planning, and coordination of LAN and WAN network systems.
+
+<br /><br />
+<b><font color="red">Skills:</font></b><br />
+Extensive critical thinking skills used to identify and resolve computer and network problems through the power of reasoning and deduction to lead to the most applicable approach.<br />
+Advanced systems analysis, including designing system flow and incorporating changes to conditions when and where necessary.<br />
+Advanced problem-solving capabilities that identify complex issues, review possible solutions, and implement those solutions.<br />
+Ability to assess computer networking needs, including relative costs, and implement beneficial actions for the company and all users.
+<br /><br />
+
+<b><font color="red">Contact Me:</font></b>
+
+Hello or you can send mail or tweet if you want to contact me for a common business venture <!-- longlongcomment -->  mail address: <a href="mailto:hi@firatdogan.com">hi@firatdogan.com</a> and Twitter:<!-- longlongcomment -->  <a href="http://twitter.com/dwhitepony">@dwhitepony</a><br/>
+
+
+<span id="a">firatdogan@localhost</span>:<span id="b">~</span><span id="c">$</span>
